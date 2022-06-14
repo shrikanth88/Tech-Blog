@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Tesla’s Four Million Mile Battery",
+      "body": " A recent study let slip a secret Tesla has been keeping quiet for four-and-a-half years. The truth is, behind closed doors they have been developing a battery that is lightyears ahead of anything that currently exists, with durability that can last a hundred years, or four million miles, without needing to be replaced! Not to mention the fact it could lead to significantly lighter battery packs. So how have they achieved this? And could you soon buy a four million mile Tesla?",
+      "author": "Will Locket",
+      "id": 1
+    },
+    {
+      "title": "Split brain in distributed systems",
+      "body": "In a distributed environment with a central (or leader) server, if the central server dies, the system must quickly find a substitute, otherwise, the system can quickly deteriorate. The scenario in which a distributed system has two or more active leaders is called split-brain. In this article, let’s learn about implication of split brain and how we can handle this",
+      "author": "Dinesh",
+      "id": 2
+    }
+  ]
+}
